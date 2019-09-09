@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="FaceSticker">
+        <item>@drawable/one</item>
+        <item>@drawable/two</item>
+        <item>@drawable/three</item>
+        <item>@drawable/four</item>
+        <item>@drawable/five</item>
+        <item>@drawable/six</item>
+        <item>@drawable/serven</item>
+        <item>@drawable/eight</item>
+        <item>@drawable/nine</item>
+        <item>@drawable/ten</item>
+        <item>@drawable/eleven</item>
+        <item>@drawable/twelve</item>
+        <item>@drawable/thirteen</item>
+        <item>@drawable/fourteen</item>
+        <item>@drawable/fifteen</item>
+        <item>@drawable/sixteen</item>
+        <item>@drawable/a1</item>
+        <item>@drawable/a2</item>
+        <item>@drawable/a3</item>
+        <item>@drawable/a4</item>
+        <item>@drawable/a6</item>
+        <item>@drawable/a7</item>
+        <item>@drawable/a8</item>
+        <item>@drawable/a9</item>
+    </array>
+</resources>
