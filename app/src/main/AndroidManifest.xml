@@ -21,7 +21,6 @@
             android:exported="true">
             <intent-filter>
                 <action android:name="com.anysoftkeyboard.plugin.KEYBOARD_STICKER" />
-
                 <category android:name="android.intent.category.DEFAULT" />
                 <category android:name="android.intent.category.ALTERNATIVE" />
                 <category android:name="android.intent.category.SELECTED_ALTERNATIVE" />

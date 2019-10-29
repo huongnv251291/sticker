@@ -2,8 +2,9 @@
 <KeyboardStickers>
     <KeyboardSticker
         description="@string/app_name"
-        id="ae8c766b-e8e5-4fed-9029-0e740ac5390a"
+        id="ffc0cd25-911b-4ef5-a190-a60d0cbf6c46"
         index="1"
-        nameResId="@string/app_name"
-        stickerKeyboardResId="@array/FaceSticker" />
+        nameResId="Colorful Cow"
+        stickerKeyboardResId="@array/toh_cow_sticker" />
 </KeyboardStickers>
+
