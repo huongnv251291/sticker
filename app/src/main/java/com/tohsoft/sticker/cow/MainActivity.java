@@ -1,8 +1,9 @@
-package com.anysoftkeyboard;
+package com.tohsoft.sticker.cow;
 
 import androidx.appcompat.app.AppCompatActivity;
 
 import android.os.Bundle;
+
 
 public class MainActivity extends AppCompatActivity {
 

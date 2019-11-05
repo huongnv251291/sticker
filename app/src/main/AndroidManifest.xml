@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="com.anysoftkeyboard">
+    package="com.tohsoft.sticker.cow">
 
     <application
         android:allowBackup="true"
@@ -17,16 +17,16 @@
             </intent-filter>
         </activity>
         <receiver
-            android:name=".sticker.PackBroadcastReceiver"
+            android:name=".PackBroadcastReceiver"
             android:exported="true">
             <intent-filter>
-                <action android:name="com.anysoftkeyboard.plugin.KEYBOARD_STICKER" />
+                <action android:name="com.tohsoft.plugin.KEYBOARD_STICKER" />
                 <category android:name="android.intent.category.DEFAULT" />
                 <category android:name="android.intent.category.ALTERNATIVE" />
                 <category android:name="android.intent.category.SELECTED_ALTERNATIVE" />
             </intent-filter>
             <meta-data
-                android:name="com.anysoftkeyboard.plugindata.keyboardsticker"
+                android:name="com.tohsoft.plugindata.keyboardsticker"
                 android:resource="@xml/keyboard_sticker" />
         </receiver>
     </application>
