@@ -1,19 +1,17 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-   <array name="toh_the_cat_sticker">
-      <item>@drawable/meo_the_cat_1</item>
-      <item>@drawable/meo_the_cat_2</item>
-      <item>@drawable/meo_the_cat_3</item>
-      <item>@drawable/meo_the_cat_4</item>
-      <item>@drawable/meo_the_cat_5</item>
-      <item>@drawable/meo_the_cat_6</item>
-      <item>@drawable/meo_the_cat_7</item>
-      <item>@drawable/meo_the_cat_8</item>
-      <item>@drawable/meo_the_cat_9</item>
-      <item>@drawable/meo_the_cat_10</item>
-      <item>@drawable/meo_the_cat_11</item>
-      <item>@drawable/meo_the_cat_12</item>
-      <item>@drawable/meo_the_cat_13</item>
-      <item>@drawable/meo_the_cat_14</item>
+   <array name="toh_the_boy_sticker">
+      <item>@drawable/theboy_1</item>
+      <item>@drawable/theboy_2</item>
+      <item>@drawable/theboy_3</item>
+      <item>@drawable/theboy_4</item>
+      <item>@drawable/theboy_5</item>
+      <item>@drawable/theboy_6</item>
+      <item>@drawable/theboy_7</item>
+      <item>@drawable/theboy_8</item>
+      <item>@drawable/theboy_9</item>
+      <item>@drawable/theboy_10</item>
+      <item>@drawable/theboy_11</item>
+      <item>@drawable/theboy_12</item>
     </array>
 </resources>
