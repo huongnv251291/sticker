@@ -1,8 +1,7 @@
-package com.tohsoft.sticker.cow;
-
-import androidx.appcompat.app.AppCompatActivity;
+package com.tohsoft.sticker.chrismast;
 
 import android.os.Bundle;
+import androidx.appcompat.app.AppCompatActivity;
 
 
 public class MainActivity extends AppCompatActivity {

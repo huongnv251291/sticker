@@ -1,4 +1,4 @@
-package com.tohsoft.sticker.cow;
+package com.tohsoft.sticker.chrismast;
 
 import com.tohsoft.addon.PackBroadcastReceiverBase;
 

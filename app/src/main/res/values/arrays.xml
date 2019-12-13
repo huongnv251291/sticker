@@ -1,14 +1,22 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-   <array name="toh_cow_sticker">
-      <item>@drawable/cow_1</item>
-      <item>@drawable/cow_2</item>
-      <item>@drawable/cow_3</item>
-      <item>@drawable/cow_4</item>
-      <item>@drawable/cow_5</item>
-      <item>@drawable/cow_6</item>
-      <item>@drawable/cow_7</item>
-      <item>@drawable/cow_8</item>
-      <item>@drawable/cow_9</item>
+   <array name="toh_christmas_sticker">
+      <item>@drawable/christmas_1</item>
+      <item>@drawable/christmas_2</item>
+      <item>@drawable/christmas_3</item>
+      <item>@drawable/christmas_4</item>
+      <item>@drawable/christmas_5</item>
+      <item>@drawable/christmas_6</item>
+      <item>@drawable/christmas_7</item>
+      <item>@drawable/christmas_8</item>
+      <item>@drawable/christmas_9</item>
+      <item>@drawable/christmas_10</item>
+      <item>@drawable/christmas_11</item>
+      <item>@drawable/christmas_12</item>
+      <item>@drawable/christmas_13</item>
+      <item>@drawable/christmas_14</item>
+      <item>@drawable/christmas_15</item>
+      <item>@drawable/christmas_16</item>
+      <item>@drawable/christmas_17</item>
     </array>
 </resources>
