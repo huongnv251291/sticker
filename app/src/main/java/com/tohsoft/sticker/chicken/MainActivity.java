@@ -1,4 +1,4 @@
-package com.tohsoft.sticker.unicorn;
+package com.tohsoft.sticker.chicken;
 
 import android.os.Bundle;
 import androidx.appcompat.app.AppCompatActivity;

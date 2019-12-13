@@ -1,15 +1,17 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-   <array name="toh_unicorn_sticker">
-      <item>@drawable/unicorn_1</item>
-      <item>@drawable/unicorn_2</item>
-      <item>@drawable/unicorn_3</item>
-      <item>@drawable/unicorn_4</item>
-      <item>@drawable/unicorn_5</item>
-      <item>@drawable/unicorn_6</item>
-      <item>@drawable/unicorn_7</item>
-      <item>@drawable/unicorn_8</item>
-      <item>@drawable/unicorn_9</item>
-      <item>@drawable/unicorn_10</item>
+   <array name="toh_chicken_sticker">
+      <item>@drawable/festival_chicken_1</item>
+      <item>@drawable/festival_chicken_2</item>
+      <item>@drawable/festival_chicken_3</item>
+      <item>@drawable/festival_chicken_4</item>
+      <item>@drawable/festival_chicken_5</item>
+      <item>@drawable/festival_chicken_6</item>
+      <item>@drawable/festival_chicken_7</item>
+      <item>@drawable/festival_chicken_8</item>
+      <item>@drawable/festival_chicken_9</item>
+      <item>@drawable/festival_chicken_10</item>
+      <item>@drawable/festival_chicken_11</item>
+      <item>@drawable/festival_chicken_12</item>
     </array>
 </resources>
