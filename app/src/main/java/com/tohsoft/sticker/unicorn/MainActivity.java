@@ -1,4 +1,4 @@
-package com.tohsoft.sticker.thecat;
+package com.tohsoft.sticker.unicorn;
 
 import android.os.Bundle;
 import androidx.appcompat.app.AppCompatActivity;

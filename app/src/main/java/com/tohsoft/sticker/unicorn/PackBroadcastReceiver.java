@@ -1,4 +1,4 @@
-package com.tohsoft.sticker.thecat;
+package com.tohsoft.sticker.unicorn;
 
 import com.tohsoft.addon.PackBroadcastReceiverBase;
 
