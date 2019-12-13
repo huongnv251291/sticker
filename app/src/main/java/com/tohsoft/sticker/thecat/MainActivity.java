@@ -1,4 +1,4 @@
-package com.tohsoft.sticker.chrismast;
+package com.tohsoft.sticker.thecat;
 
 import android.os.Bundle;
 import androidx.appcompat.app.AppCompatActivity;

@@ -1,22 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-   <array name="toh_christmas_sticker">
-      <item>@drawable/christmas_1</item>
-      <item>@drawable/christmas_2</item>
-      <item>@drawable/christmas_3</item>
-      <item>@drawable/christmas_4</item>
-      <item>@drawable/christmas_5</item>
-      <item>@drawable/christmas_6</item>
-      <item>@drawable/christmas_7</item>
-      <item>@drawable/christmas_8</item>
-      <item>@drawable/christmas_9</item>
-      <item>@drawable/christmas_10</item>
-      <item>@drawable/christmas_11</item>
-      <item>@drawable/christmas_12</item>
-      <item>@drawable/christmas_13</item>
-      <item>@drawable/christmas_14</item>
-      <item>@drawable/christmas_15</item>
-      <item>@drawable/christmas_16</item>
-      <item>@drawable/christmas_17</item>
+   <array name="toh_the_cat_sticker">
+      <item>@drawable/meo_the_cat_1</item>
+      <item>@drawable/meo_the_cat_2</item>
+      <item>@drawable/meo_the_cat_3</item>
+      <item>@drawable/meo_the_cat_4</item>
+      <item>@drawable/meo_the_cat_5</item>
+      <item>@drawable/meo_the_cat_6</item>
+      <item>@drawable/meo_the_cat_7</item>
+      <item>@drawable/meo_the_cat_8</item>
+      <item>@drawable/meo_the_cat_9</item>
+      <item>@drawable/meo_the_cat_10</item>
+      <item>@drawable/meo_the_cat_11</item>
+      <item>@drawable/meo_the_cat_12</item>
+      <item>@drawable/meo_the_cat_13</item>
+      <item>@drawable/meo_the_cat_14</item>
     </array>
 </resources>
