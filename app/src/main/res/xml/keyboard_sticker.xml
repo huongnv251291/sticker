@@ -2,7 +2,7 @@
 <KeyboardStickers>
     <KeyboardSticker
         description="@string/app_name"
-        id="0c38f8f2-c893-4136-bae2-902a00361e7d"
+        id="6c392326-3208-4686-ad1d-279eb9ccc074"
         index="1"
         nameResId="Unicorn"
         stickerKeyboardResId="@array/toh_unicorn_sticker" />
