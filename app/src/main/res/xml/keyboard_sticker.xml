@@ -2,8 +2,8 @@
 <KeyboardStickers>
     <KeyboardSticker
         description="@string/app_name"
-        id="c87f7019-232f-494c-8024-f8399cb14254"
+        id="93ef02c7-8105-4b8d-9b17-bb261c3a0d77"
         index="1"
-        nameResId="Chicken"
-        stickerKeyboardResId="@array/toh_chicken_sticker" />
+        nameResId="New Year Mouse"
+        stickerKeyboardResId="@array/toh_stickers" />
 </KeyboardStickers>

@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-   <array name="toh_chicken_sticker">
-      <item>@drawable/festival_chicken_1</item>
-      <item>@drawable/festival_chicken_2</item>
-      <item>@drawable/festival_chicken_3</item>
-      <item>@drawable/festival_chicken_4</item>
-      <item>@drawable/festival_chicken_5</item>
-      <item>@drawable/festival_chicken_6</item>
-      <item>@drawable/festival_chicken_7</item>
-      <item>@drawable/festival_chicken_8</item>
-      <item>@drawable/festival_chicken_9</item>
-      <item>@drawable/festival_chicken_10</item>
-      <item>@drawable/festival_chicken_11</item>
-      <item>@drawable/festival_chicken_12</item>
+   <array name="toh_stickers">
+      <item>@drawable/newyear_mouse_1</item>
+      <item>@drawable/newyear_mouse_2</item>
+      <item>@drawable/newyear_mouse_3</item>
+      <item>@drawable/newyear_mouse_4</item>
+      <item>@drawable/newyear_mouse_5</item>
+      <item>@drawable/newyear_mouse_6</item>
+      <item>@drawable/newyear_mouse_7</item>
+      <item>@drawable/newyear_mouse_8</item>
+      <item>@drawable/newyear_mouse_9</item>
+      <item>@drawable/newyear_mouse_10</item>
+      <item>@drawable/newyear_mouse_11</item>
+      <item>@drawable/newyear_mouse_12</item>
     </array>
 </resources>
