@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
    <array name="toh_stickers">
-      <item>@drawable/newyear_mouse_1</item>
-      <item>@drawable/newyear_mouse_2</item>
-      <item>@drawable/newyear_mouse_3</item>
-      <item>@drawable/newyear_mouse_4</item>
-      <item>@drawable/newyear_mouse_5</item>
-      <item>@drawable/newyear_mouse_6</item>
-      <item>@drawable/newyear_mouse_7</item>
-      <item>@drawable/newyear_mouse_8</item>
-      <item>@drawable/newyear_mouse_9</item>
-      <item>@drawable/newyear_mouse_10</item>
-      <item>@drawable/newyear_mouse_11</item>
-      <item>@drawable/newyear_mouse_12</item>
+      <item>@drawable/super_fox_1</item>
+      <item>@drawable/super_fox_2</item>
+      <item>@drawable/super_fox_3</item>
+      <item>@drawable/super_fox_4</item>
+      <item>@drawable/super_fox_5</item>
+      <item>@drawable/super_fox_6</item>
+      <item>@drawable/super_fox_7</item>
+      <item>@drawable/super_fox_8</item>
+      <item>@drawable/super_fox_9</item>
+      <item>@drawable/super_fox_10</item>
+      <item>@drawable/super_fox_11</item>
+      <item>@drawable/super_fox_12</item>
     </array>
 </resources>
