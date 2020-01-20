@@ -1,21 +1,25 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
    <array name="toh_stickers">
-      <item>@drawable/lazy_dog_1</item>
-      <item>@drawable/lazy_dog_2</item>
-      <item>@drawable/lazy_dog_3</item>
-      <item>@drawable/lazy_dog_4</item>
-      <item>@drawable/lazy_dog_5</item>
-      <item>@drawable/lazy_dog_6</item>
-      <item>@drawable/lazy_dog_7</item>
-      <item>@drawable/lazy_dog_8</item>
-      <item>@drawable/lazy_dog_9</item>
-      <item>@drawable/lazy_dog_10</item>
-      <item>@drawable/lazy_dog_11</item>
-      <item>@drawable/lazy_dog_12</item>
-      <item>@drawable/lazy_dog_13</item>
-      <item>@drawable/lazy_dog_14</item>
-      <item>@drawable/lazy_dog_15</item>
-      <item>@drawable/lazy_dog_16</item>
+      <item>@drawable/pink_bunny_1</item>
+      <item>@drawable/pink_bunny_2</item>
+      <item>@drawable/pink_bunny_3</item>
+      <item>@drawable/pink_bunny_4</item>
+      <item>@drawable/pink_bunny_5</item>
+      <item>@drawable/pink_bunny_6</item>
+      <item>@drawable/pink_bunny_7</item>
+      <item>@drawable/pink_bunny_8</item>
+      <item>@drawable/pink_bunny_9</item>
+      <item>@drawable/pink_bunny_10</item>
+      <item>@drawable/pink_bunny_11</item>
+      <item>@drawable/pink_bunny_12</item>
+      <item>@drawable/pink_bunny_13</item>
+      <item>@drawable/pink_bunny_14</item>
+      <item>@drawable/pink_bunny_15</item>
+      <item>@drawable/pink_bunny_16</item>
+      <item>@drawable/pink_bunny_17</item>
+      <item>@drawable/pink_bunny_18</item>
+      <item>@drawable/pink_bunny_19</item>
+      <item>@drawable/pink_bunny_20</item>
     </array>
 </resources>

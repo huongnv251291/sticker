@@ -2,8 +2,8 @@
 <KeyboardStickers>
     <KeyboardSticker
         description="@string/app_name"
-        id="312fc8d9-3e1d-4461-8f26-e44b2e7b7cd7"
+        id="dd064807-9b99-4648-985b-5d793d25d268"
         index="1"
-        nameResId="Lazy Dog"
+        nameResId="Pink Bunny"
         stickerKeyboardResId="@array/toh_stickers" />
 </KeyboardStickers>
