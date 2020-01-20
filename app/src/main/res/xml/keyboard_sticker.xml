@@ -2,9 +2,9 @@
 <KeyboardStickers>
     <KeyboardSticker
         description="@string/app_name"
-        id="79fc38bc-f73a-444d-b32f-e115bd4054cc"
+        id="f95ef308-e2f6-454e-9cb0-bc7d95826fbc"
         index="1"
-        nameResId="Cute Corgi"
+        nameResId="Racoon"
         stickerKeyboardResId="@array/toh_stickers" />
 </KeyboardStickers>
 

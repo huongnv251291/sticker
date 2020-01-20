@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
    <array name="toh_stickers">
-      <item>@drawable/cute_corgi_1</item>
-      <item>@drawable/cute_corgi_2</item>
-      <item>@drawable/cute_corgi_3</item>
-      <item>@drawable/cute_corgi_4</item>
-      <item>@drawable/cute_corgi_5</item>
-      <item>@drawable/cute_corgi_6</item>
-      <item>@drawable/cute_corgi_7</item>
-      <item>@drawable/cute_corgi_8</item>
-      <item>@drawable/cute_corgi_9</item>
-      <item>@drawable/cute_corgi_10</item>
-      <item>@drawable/cute_corgi_11</item>
-      <item>@drawable/cute_corgi_12</item>
-      <item>@drawable/cute_corgi_13</item>
-      <item>@drawable/cute_corgi_14</item>
-      <item>@drawable/cute_corgi_15</item>
-      <item>@drawable/cute_corgi_16</item>
+      <item>@drawable/racoon_1</item>
+      <item>@drawable/racoon_2</item>
+      <item>@drawable/racoon_3</item>
+      <item>@drawable/racoon_4</item>
+      <item>@drawable/racoon_5</item>
+      <item>@drawable/racoon_6</item>
+      <item>@drawable/racoon_7</item>
+      <item>@drawable/racoon_8</item>
+      <item>@drawable/racoon_9</item>
+      <item>@drawable/racoon_10</item>
+      <item>@drawable/racoon_11</item>
+      <item>@drawable/racoon_12</item>
+      <item>@drawable/racoon_13</item>
+      <item>@drawable/racoon_14</item>
+      <item>@drawable/racoon_15</item>
+      <item>@drawable/racoon_16</item>
     </array>
 </resources>
