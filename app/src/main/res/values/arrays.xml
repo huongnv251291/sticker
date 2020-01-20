@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
    <array name="toh_stickers">
-      <item>@drawable/baby_girl_1</item>
-      <item>@drawable/baby_girl_2</item>
-      <item>@drawable/baby_girl_3</item>
-      <item>@drawable/baby_girl_4</item>
-      <item>@drawable/baby_girl_5</item>
-      <item>@drawable/baby_girl_6</item>
-      <item>@drawable/baby_girl_7</item>
-      <item>@drawable/baby_girl_8</item>
-      <item>@drawable/baby_girl_9</item>
-      <item>@drawable/baby_girl_10</item>
-      <item>@drawable/baby_girl_11</item>
-      <item>@drawable/baby_girl_12</item>
-      <item>@drawable/baby_girl_13</item>
-      <item>@drawable/baby_girl_14</item>
-      <item>@drawable/baby_girl_15</item>
-      <item>@drawable/baby_girl_16</item>
+      <item>@drawable/summer_1</item>
+      <item>@drawable/summer_2</item>
+      <item>@drawable/summer_3</item>
+      <item>@drawable/summer_4</item>
+      <item>@drawable/summer_5</item>
+      <item>@drawable/summer_6</item>
+      <item>@drawable/summer_7</item>
+      <item>@drawable/summer_8</item>
+      <item>@drawable/summer_9</item>
+      <item>@drawable/summer_10</item>
+      <item>@drawable/summer_11</item>
+      <item>@drawable/summer_12</item>
+      <item>@drawable/summer_13</item>
+      <item>@drawable/summer_14</item>
+      <item>@drawable/summer_15</item>
+      <item>@drawable/summer_16</item>
     </array>
 </resources>
