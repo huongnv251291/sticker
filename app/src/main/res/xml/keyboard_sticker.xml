@@ -2,8 +2,8 @@
 <KeyboardStickers>
     <KeyboardSticker
         description="@string/app_name"
-        id="dc0bfd20-7f94-4d74-af7e-a07f6472e34f"
+        id="8c0c439a-f94f-4821-bb0e-dc6134437f52"
         index="1"
-        nameResId="Xmas Greetiing"
+        nameResId="Brown Teddy"
         stickerKeyboardResId="@array/toh_stickers" />
 </KeyboardStickers>

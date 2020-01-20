@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
    <array name="toh_stickers">
-      <item>@drawable/xmas_greeting_1</item>
-      <item>@drawable/xmas_greeting_2</item>
-      <item>@drawable/xmas_greeting_3</item>
-      <item>@drawable/xmas_greeting_4</item>
-      <item>@drawable/xmas_greeting_5</item>
-      <item>@drawable/xmas_greeting_6</item>
-      <item>@drawable/xmas_greeting_7</item>
-      <item>@drawable/xmas_greeting_8</item>
-      <item>@drawable/xmas_greeting_9</item>
-      <item>@drawable/xmas_greeting_10</item>
-      <item>@drawable/xmas_greeting_11</item>
-      <item>@drawable/xmas_greeting_12</item>
-      <item>@drawable/xmas_greeting_13</item>
-      <item>@drawable/xmas_greeting_14</item>
-      <item>@drawable/xmas_greeting_15</item>
-      <item>@drawable/xmas_greeting_16</item>
+      <item>@drawable/brown_teddy_1</item>
+      <item>@drawable/brown_teddy_2</item>
+      <item>@drawable/brown_teddy_3</item>
+      <item>@drawable/brown_teddy_4</item>
+      <item>@drawable/brown_teddy_5</item>
+      <item>@drawable/brown_teddy_6</item>
+      <item>@drawable/brown_teddy_7</item>
+      <item>@drawable/brown_teddy_8</item>
+      <item>@drawable/brown_teddy_9</item>
+      <item>@drawable/brown_teddy_10</item>
+      <item>@drawable/brown_teddy_11</item>
+      <item>@drawable/brown_teddy_12</item>
+      <item>@drawable/brown_teddy_13</item>
+      <item>@drawable/brown_teddy_14</item>
+      <item>@drawable/brown_teddy_15</item>
+      <item>@drawable/brown_teddy_16</item>
     </array>
 </resources>
