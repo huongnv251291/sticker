@@ -1,17 +1,21 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
    <array name="toh_stickers">
-      <item>@drawable/sugar_lips_1</item>
-      <item>@drawable/sugar_lips_2</item>
-      <item>@drawable/sugar_lips_3</item>
-      <item>@drawable/sugar_lips_4</item>
-      <item>@drawable/sugar_lips_5</item>
-      <item>@drawable/sugar_lips_6</item>
-      <item>@drawable/sugar_lips_7</item>
-      <item>@drawable/sugar_lips_8</item>
-      <item>@drawable/sugar_lips_9</item>
-      <item>@drawable/sugar_lips_10</item>
-      <item>@drawable/sugar_lips_11</item>
-      <item>@drawable/sugar_lips_12</item>
+      <item>@drawable/baby_girl_1</item>
+      <item>@drawable/baby_girl_2</item>
+      <item>@drawable/baby_girl_3</item>
+      <item>@drawable/baby_girl_4</item>
+      <item>@drawable/baby_girl_5</item>
+      <item>@drawable/baby_girl_6</item>
+      <item>@drawable/baby_girl_7</item>
+      <item>@drawable/baby_girl_8</item>
+      <item>@drawable/baby_girl_9</item>
+      <item>@drawable/baby_girl_10</item>
+      <item>@drawable/baby_girl_11</item>
+      <item>@drawable/baby_girl_12</item>
+      <item>@drawable/baby_girl_13</item>
+      <item>@drawable/baby_girl_14</item>
+      <item>@drawable/baby_girl_15</item>
+      <item>@drawable/baby_girl_16</item>
     </array>
 </resources>
