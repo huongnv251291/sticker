@@ -1,21 +1,17 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
    <array name="toh_stickers">
-      <item>@drawable/brown_teddy_1</item>
-      <item>@drawable/brown_teddy_2</item>
-      <item>@drawable/brown_teddy_3</item>
-      <item>@drawable/brown_teddy_4</item>
-      <item>@drawable/brown_teddy_5</item>
-      <item>@drawable/brown_teddy_6</item>
-      <item>@drawable/brown_teddy_7</item>
-      <item>@drawable/brown_teddy_8</item>
-      <item>@drawable/brown_teddy_9</item>
-      <item>@drawable/brown_teddy_10</item>
-      <item>@drawable/brown_teddy_11</item>
-      <item>@drawable/brown_teddy_12</item>
-      <item>@drawable/brown_teddy_13</item>
-      <item>@drawable/brown_teddy_14</item>
-      <item>@drawable/brown_teddy_15</item>
-      <item>@drawable/brown_teddy_16</item>
+      <item>@drawable/sugar_lips_1</item>
+      <item>@drawable/sugar_lips_2</item>
+      <item>@drawable/sugar_lips_3</item>
+      <item>@drawable/sugar_lips_4</item>
+      <item>@drawable/sugar_lips_5</item>
+      <item>@drawable/sugar_lips_6</item>
+      <item>@drawable/sugar_lips_7</item>
+      <item>@drawable/sugar_lips_8</item>
+      <item>@drawable/sugar_lips_9</item>
+      <item>@drawable/sugar_lips_10</item>
+      <item>@drawable/sugar_lips_11</item>
+      <item>@drawable/sugar_lips_12</item>
     </array>
 </resources>

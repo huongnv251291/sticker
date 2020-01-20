@@ -2,8 +2,8 @@
 <KeyboardStickers>
     <KeyboardSticker
         description="@string/app_name"
-        id="8c0c439a-f94f-4821-bb0e-dc6134437f52"
+        id="7707f03a-560c-4d5a-92bf-99a204446239"
         index="1"
-        nameResId="Brown Teddy"
+        nameResId="Sugar Lips"
         stickerKeyboardResId="@array/toh_stickers" />
 </KeyboardStickers>
