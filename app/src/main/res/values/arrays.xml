@@ -1,25 +1,17 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
    <array name="toh_stickers">
-      <item>@drawable/pink_bunny_1</item>
-      <item>@drawable/pink_bunny_2</item>
-      <item>@drawable/pink_bunny_3</item>
-      <item>@drawable/pink_bunny_4</item>
-      <item>@drawable/pink_bunny_5</item>
-      <item>@drawable/pink_bunny_6</item>
-      <item>@drawable/pink_bunny_7</item>
-      <item>@drawable/pink_bunny_8</item>
-      <item>@drawable/pink_bunny_9</item>
-      <item>@drawable/pink_bunny_10</item>
-      <item>@drawable/pink_bunny_11</item>
-      <item>@drawable/pink_bunny_12</item>
-      <item>@drawable/pink_bunny_13</item>
-      <item>@drawable/pink_bunny_14</item>
-      <item>@drawable/pink_bunny_15</item>
-      <item>@drawable/pink_bunny_16</item>
-      <item>@drawable/pink_bunny_17</item>
-      <item>@drawable/pink_bunny_18</item>
-      <item>@drawable/pink_bunny_19</item>
-      <item>@drawable/pink_bunny_20</item>
+      <item>@drawable/friendship_day_1</item>
+      <item>@drawable/friendship_day_2</item>
+      <item>@drawable/friendship_day_3</item>
+      <item>@drawable/friendship_day_4</item>
+      <item>@drawable/friendship_day_5</item>
+      <item>@drawable/friendship_day_6</item>
+      <item>@drawable/friendship_day_7</item>
+      <item>@drawable/friendship_day_8</item>
+      <item>@drawable/friendship_day_9</item>
+      <item>@drawable/friendship_day_10</item>
+      <item>@drawable/friendship_day_11</item>
+      <item>@drawable/friendship_day_12</item>
     </array>
 </resources>
