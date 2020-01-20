@@ -1,17 +1,21 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
    <array name="toh_stickers">
-      <item>@drawable/lonely_girl_1</item>
-      <item>@drawable/lonely_girl_2</item>
-      <item>@drawable/lonely_girl_3</item>
-      <item>@drawable/lonely_girl_4</item>
-      <item>@drawable/lonely_girl_5</item>
-      <item>@drawable/lonely_girl_6</item>
-      <item>@drawable/lonely_girl_7</item>
-      <item>@drawable/lonely_girl_8</item>
-      <item>@drawable/lonely_girl_9</item>
-      <item>@drawable/lonely_girl_10</item>
-      <item>@drawable/lonely_girl_11</item>
-      <item>@drawable/lonely_girl_12</item>
+      <item>@drawable/weird_couple_1</item>
+      <item>@drawable/weird_couple_2</item>
+      <item>@drawable/weird_couple_3</item>
+      <item>@drawable/weird_couple_4</item>
+      <item>@drawable/weird_couple_5</item>
+      <item>@drawable/weird_couple_6</item>
+      <item>@drawable/weird_couple_7</item>
+      <item>@drawable/weird_couple_8</item>
+      <item>@drawable/weird_couple_9</item>
+      <item>@drawable/weird_couple_10</item>
+      <item>@drawable/weird_couple_11</item>
+      <item>@drawable/weird_couple_12</item>
+      <item>@drawable/weird_couple_13</item>
+      <item>@drawable/weird_couple_14</item>
+      <item>@drawable/weird_couple_15</item>
+      <item>@drawable/weird_couple_16</item>
     </array>
 </resources>

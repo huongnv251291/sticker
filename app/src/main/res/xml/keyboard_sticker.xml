@@ -2,9 +2,9 @@
 <KeyboardStickers>
     <KeyboardSticker
         description="@string/app_name"
-        id="f370205e-44b6-4b06-91cf-2f45d2e032fa"
+        id="416835ec-ac4c-4098-8dd9-8dba60e3011d"
         index="1"
-        nameResId="Lonely Girl"
+        nameResId="Weird Couple"
         stickerKeyboardResId="@array/toh_stickers" />
 </KeyboardStickers>
 
