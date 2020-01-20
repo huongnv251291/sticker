@@ -1,21 +1,17 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
    <array name="toh_stickers">
-      <item>@drawable/racoon_1</item>
-      <item>@drawable/racoon_2</item>
-      <item>@drawable/racoon_3</item>
-      <item>@drawable/racoon_4</item>
-      <item>@drawable/racoon_5</item>
-      <item>@drawable/racoon_6</item>
-      <item>@drawable/racoon_7</item>
-      <item>@drawable/racoon_8</item>
-      <item>@drawable/racoon_9</item>
-      <item>@drawable/racoon_10</item>
-      <item>@drawable/racoon_11</item>
-      <item>@drawable/racoon_12</item>
-      <item>@drawable/racoon_13</item>
-      <item>@drawable/racoon_14</item>
-      <item>@drawable/racoon_15</item>
-      <item>@drawable/racoon_16</item>
+      <item>@drawable/cactus_1</item>
+      <item>@drawable/cactus_2</item>
+      <item>@drawable/cactus_3</item>
+      <item>@drawable/cactus_4</item>
+      <item>@drawable/cactus_5</item>
+      <item>@drawable/cactus_6</item>
+      <item>@drawable/cactus_7</item>
+      <item>@drawable/cactus_8</item>
+      <item>@drawable/cactus_9</item>
+      <item>@drawable/cactus_10</item>
+      <item>@drawable/cactus_11</item>
+      <item>@drawable/cactus_12</item>
     </array>
 </resources>

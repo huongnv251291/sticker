@@ -2,9 +2,10 @@
 <KeyboardStickers>
     <KeyboardSticker
         description="@string/app_name"
-        id="f95ef308-e2f6-454e-9cb0-bc7d95826fbc"
+        id="e9cbbefb-ed2c-4cbb-b393-121c0ec4ae34"
         index="1"
-        nameResId="Racoon"
+        nameResId="Cactus"
         stickerKeyboardResId="@array/toh_stickers" />
 </KeyboardStickers>
+
 
