@@ -1,17 +1,21 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
    <array name="toh_stickers">
-      <item>@drawable/friendship_day_1</item>
-      <item>@drawable/friendship_day_2</item>
-      <item>@drawable/friendship_day_3</item>
-      <item>@drawable/friendship_day_4</item>
-      <item>@drawable/friendship_day_5</item>
-      <item>@drawable/friendship_day_6</item>
-      <item>@drawable/friendship_day_7</item>
-      <item>@drawable/friendship_day_8</item>
-      <item>@drawable/friendship_day_9</item>
-      <item>@drawable/friendship_day_10</item>
-      <item>@drawable/friendship_day_11</item>
-      <item>@drawable/friendship_day_12</item>
+      <item>@drawable/xmas_greeting_1</item>
+      <item>@drawable/xmas_greeting_2</item>
+      <item>@drawable/xmas_greeting_3</item>
+      <item>@drawable/xmas_greeting_4</item>
+      <item>@drawable/xmas_greeting_5</item>
+      <item>@drawable/xmas_greeting_6</item>
+      <item>@drawable/xmas_greeting_7</item>
+      <item>@drawable/xmas_greeting_8</item>
+      <item>@drawable/xmas_greeting_9</item>
+      <item>@drawable/xmas_greeting_10</item>
+      <item>@drawable/xmas_greeting_11</item>
+      <item>@drawable/xmas_greeting_12</item>
+      <item>@drawable/xmas_greeting_13</item>
+      <item>@drawable/xmas_greeting_14</item>
+      <item>@drawable/xmas_greeting_15</item>
+      <item>@drawable/xmas_greeting_16</item>
     </array>
 </resources>
