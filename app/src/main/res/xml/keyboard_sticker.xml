@@ -2,10 +2,8 @@
 <KeyboardStickers>
     <KeyboardSticker
         description="@string/app_name"
-        id="e9cbbefb-ed2c-4cbb-b393-121c0ec4ae34"
+        id="1a6af7c4-4340-4d43-b92d-483cd0a617e9"
         index="1"
-        nameResId="Cactus"
+        nameResId="Indian Uncle"
         stickerKeyboardResId="@array/toh_stickers" />
 </KeyboardStickers>
-
-

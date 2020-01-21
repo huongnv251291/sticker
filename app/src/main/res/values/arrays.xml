@@ -1,17 +1,21 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
    <array name="toh_stickers">
-      <item>@drawable/cactus_1</item>
-      <item>@drawable/cactus_2</item>
-      <item>@drawable/cactus_3</item>
-      <item>@drawable/cactus_4</item>
-      <item>@drawable/cactus_5</item>
-      <item>@drawable/cactus_6</item>
-      <item>@drawable/cactus_7</item>
-      <item>@drawable/cactus_8</item>
-      <item>@drawable/cactus_9</item>
-      <item>@drawable/cactus_10</item>
-      <item>@drawable/cactus_11</item>
-      <item>@drawable/cactus_12</item>
+      <item>@drawable/indian_uncle_1</item>
+      <item>@drawable/indian_uncle_2</item>
+      <item>@drawable/indian_uncle_3</item>
+      <item>@drawable/indian_uncle_4</item>
+      <item>@drawable/indian_uncle_5</item>
+      <item>@drawable/indian_uncle_6</item>
+      <item>@drawable/indian_uncle_7</item>
+      <item>@drawable/indian_uncle_8</item>
+      <item>@drawable/indian_uncle_9</item>
+      <item>@drawable/indian_uncle_10</item>
+      <item>@drawable/indian_uncle_11</item>
+      <item>@drawable/indian_uncle_12</item>
+      <item>@drawable/indian_uncle_13</item>
+      <item>@drawable/indian_uncle_14</item>
+      <item>@drawable/indian_uncle_15</item>
+      <item>@drawable/indian_uncle_16</item>
     </array>
 </resources>
